@@ -4,7 +4,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yutman)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yutman&layout=donut-vertical)](https://github.com/Yutman/github-readme-stats)
+![Yutman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yutman&show_icons=true&theme=transparent)
 
 
 <!--
