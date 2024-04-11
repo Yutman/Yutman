@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-![Yutman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yutman&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yutman)
 
-![Yutman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yutman&show_icons=true&theme=transparent)
+![Yutman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yutman&show_icons=true&theme=transparent&hide_rank=true)
 
 
 <!--
